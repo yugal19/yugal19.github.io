@@ -104,19 +104,17 @@ A user consent management platform built for B2B data-sharing compliance use cas
 - 🤖 **AI Enthusiast** – Love building and understanding AI systems
 
 ---
+<h2 align="center">🤝 Connect With Me</h2>
 
-## 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/yugal-chandak-25b993285/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <br/>
   <a href="https://yugal19.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <br/>
   <a href="mailto:yugalchandak19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
